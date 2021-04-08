@@ -54,6 +54,4 @@ public class Files {
     public static XLS getXls(String path) {
         return new XLS(getFile(path));
     }
-
-
 }
